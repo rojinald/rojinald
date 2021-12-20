@@ -8,12 +8,12 @@
           align="right"
           width="400"
           height="340"
-          src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif"
-          ></img>
+          src="assets/avatarProfile.gif"
+          />
       </div>
       <div style="align-self: center">
         <p style="text-align: left">
-          My name is Nikita and i am a novice web developer<br />
+          My name is Nikita and i am a novice web developer.<br />
           For me, the most exciting thing in thiis profession<br />
            is the opportunity to bring my ideas to life.<br />
         </p>
@@ -38,3 +38,9 @@
 ![Git](https://img.shields.io/badge/-Git-white?style=flate&logo=Git)
 ![Prepros](https://img.shields.io/badge/-Prepros-green?style=flate&logo=Prepros)
 
+<br>
+<br>
+<br>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojinald&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
