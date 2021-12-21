@@ -14,7 +14,7 @@
       <div style="align-self: center">
         <p style="text-align: left">
           My name is Nikita and i am a novice web developer.<br />
-          For me, the most exciting thing in thiis profession<br />
+          For me, the most exciting thing in this profession<br />
            is the opportunity to bring my ideas to life.<br />
         </p>
       </div>
@@ -36,7 +36,6 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flate&logo=VisualStudioCode)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flate&logo=WebStorm)
 ![Git](https://img.shields.io/badge/-Git-white?style=flate&logo=Git)
-![Prepros](https://img.shields.io/badge/-Prepros-green?style=flate&logo=Prepros)
 
 <br>
 <br>
