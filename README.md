@@ -20,7 +20,11 @@
       </div>
     </div>
 <div>
-
+##### Contact me:
+<a href="https://www.linkedin.com/in/rojinlad/">
+<img src="https://img.shields.io/badge/-linkedin-blue?style=flate&logo=linkedin"/></a>
+<a href="https://t.me/rojinlad"><img src="https://img.shields.io/badge/-Telegram-blue?style=flate&logo=Telegram"/></a>
+      
 ---
 ### ***I own the following technology stack:***
 #### *Programming languages*
