@@ -13,7 +13,7 @@
       </div>
       <div style="align-self: center">
         <p style="text-align: left">
-          My name is Nikita and i am a novice web developer.<br />
+          My name is Nikita and i am a novice frontend developer.<br />
           For me, the most exciting thing in this profession<br />
            is the opportunity to bring my ideas to life.<br />
         </p>
